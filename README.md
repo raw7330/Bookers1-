@@ -5,6 +5,8 @@ application up and running.
 
 Things you may want to cover:
 
+サイト概要
+
 * Ruby version
 
 * System dependencies
